@@ -19,9 +19,9 @@
 
 ### Android
 
-当前版本 **android-v0.5.3** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v0.5.3)
+当前版本 **android-v0.5.4** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v0.5.4)
 
-- [OpenConnectGui-android-0.5.3.apk](https://github.com/VPS668/clients/releases/download/android-v0.5.3/OpenConnectGui-android-0.5.3.apk)
+- [OpenConnectGui-android-0.5.4.apk](https://github.com/VPS668/clients/releases/download/android-v0.5.4/OpenConnectGui-android-0.5.4.apk)
 
 ### macOS
 
