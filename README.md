@@ -15,10 +15,10 @@
 
 ### Windows 7 / 8
 
-当前版本 **win7-2.3.4** · [Release 说明](https://github.com/VPS668/clients/releases/tag/win7-2.3.4)
+当前版本 **win7-2.3.5** · [Release 说明](https://github.com/VPS668/clients/releases/tag/win7-2.3.5)
 
-- [VPS000Client-win7-2.3.4-Setup.exe](https://github.com/VPS668/clients/releases/download/win7-2.3.4/VPS000Client-win7-2.3.4-Setup.exe)
-- [VPS000Client-win7-2.3.4-win7-win8-x64.zip](https://github.com/VPS668/clients/releases/download/win7-2.3.4/VPS000Client-win7-2.3.4-win7-win8-x64.zip)
+- [VPS000Client-win7-2.3.5-Setup.exe](https://github.com/VPS668/clients/releases/download/win7-2.3.5/VPS000Client-win7-2.3.5-Setup.exe)
+- [VPS000Client-win7-2.3.5-win7-win8-x64.zip](https://github.com/VPS668/clients/releases/download/win7-2.3.5/VPS000Client-win7-2.3.5-win7-win8-x64.zip)
 
 ### Android
 
