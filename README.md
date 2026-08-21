@@ -28,12 +28,13 @@
 
 ### macOS
 
-当前版本 **macos-v2.2.1** · [Release 说明](https://github.com/VPS668/clients/releases/tag/macos-v2.2.1)
+当前版本 **macos-v2.2.2** · [Release 说明](https://github.com/VPS668/clients/releases/tag/macos-v2.2.2)
 
-- [OpenConnectGui-2.2.1-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.2.1/OpenConnectGui-2.2.1-macos-arm64.pkg)（Apple Silicon）
-- [OpenConnectGui-2.2.1-macos-arm64-Installer.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.2.1/OpenConnectGui-2.2.1-macos-arm64-Installer.dmg)
-- [OpenConnectGui-2.2.1-macos-x64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.2.1/OpenConnectGui-2.2.1-macos-x64.pkg)（Intel）
-- [OpenConnectGui-2.2.1-macos-x64-Installer.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.2.1/OpenConnectGui-2.2.1-macos-x64-Installer.dmg)
+- [VPS000Client-2.2.2-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.2.2/VPS000Client-2.2.2-macos-arm64.pkg)（Apple Silicon）
+- [VPS000Client-2.2.2-macos-arm64-Installer.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.2.2/VPS000Client-2.2.2-macos-arm64-Installer.dmg)
+- [VPS000Client-2.2.2-macos-x64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.2.2/VPS000Client-2.2.2-macos-x64.pkg)（Intel）
+- [VPS000Client-2.2.2-macos-x64-Installer.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.2.2/VPS000Client-2.2.2-macos-x64-Installer.dmg)
+
 
 ### iOS
 
