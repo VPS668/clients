@@ -8,10 +8,10 @@
 
 ### Windows 10 / 11
 
-当前版本 **v2.3.4** · [Release 说明](https://github.com/VPS668/clients/releases/tag/v2.3.4)
+当前版本 **v2.3.5** · [Release 说明](https://github.com/VPS668/clients/releases/tag/v2.3.5)
 
-- [VPS000Client-2.3.4-Setup.exe](https://github.com/VPS668/clients/releases/download/v2.3.4/VPS000Client-2.3.4-Setup.exe)
-- [VPS000Client-2.3.4-win-x64.zip](https://github.com/VPS668/clients/releases/download/v2.3.4/VPS000Client-2.3.4-win-x64.zip)
+- [VPS000Client-2.3.5-Setup.exe](https://github.com/VPS668/clients/releases/download/v2.3.5/VPS000Client-2.3.5-Setup.exe)
+- [VPS000Client-2.3.5-win-x64.zip](https://github.com/VPS668/clients/releases/download/v2.3.5/VPS000Client-2.3.5-win-x64.zip)
 
 ### Windows 7 / 8
 
@@ -30,11 +30,8 @@
 
 当前版本 **macos-v2.3.5** · [Release 说明](https://github.com/VPS668/clients/releases/tag/macos-v2.3.5)
 
-- [VPS000Client-2.3.5-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.3.5/VPS000Client-2.3.5-macos-arm64.pkg)（Apple Silicon 安装包）
-- [VPS000Client-2.3.5-macos-arm64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.3.5/VPS000Client-2.3.5-macos-arm64.dmg)（Apple Silicon 拖拽安装）
-- [VPS000Client-2.3.5-macos-x64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.3.5/VPS000Client-2.3.5-macos-x64.pkg)（Intel 安装包）
-- [VPS000Client-2.3.5-macos-x64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.3.5/VPS000Client-2.3.5-macos-x64.dmg)（Intel 拖拽安装）
-
+- [VPS000Client-2.3.5-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.3.5/VPS000Client-2.3.5-macos-arm64.pkg)
+- [VPS000Client-2.3.5-macos-arm64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.3.5/VPS000Client-2.3.5-macos-arm64.dmg)
 
 ### iOS
 
