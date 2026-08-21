@@ -28,10 +28,13 @@
 
 ### macOS
 
-当前版本 **macos-v2.2.2** · [Release 说明](https://github.com/VPS668/clients/releases/tag/macos-v2.2.2)
+当前版本 **macos-v2.2.3** · [Release 说明](https://github.com/VPS668/clients/releases/tag/macos-v2.2.3)
 
-- [VPS000Client-2.2.2-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.2.2/VPS000Client-2.2.2-macos-arm64.pkg)
-- [VPS000Client-2.2.2-macos-arm64-Installer.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.2.2/VPS000Client-2.2.2-macos-arm64-Installer.dmg)
+- [VPS000Client-2.2.3-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.2.3/VPS000Client-2.2.3-macos-arm64.pkg)（Apple Silicon）
+- [VPS000Client-2.2.3-macos-arm64-Installer.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.2.3/VPS000Client-2.2.3-macos-arm64-Installer.dmg)
+- [VPS000Client-2.2.3-macos-x64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.2.3/VPS000Client-2.2.3-macos-x64.pkg)（Intel）
+- [VPS000Client-2.2.3-macos-x64-Installer.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.2.3/VPS000Client-2.2.3-macos-x64-Installer.dmg)
+
 
 ### iOS
 
