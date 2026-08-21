@@ -22,19 +22,16 @@
 
 ### Android
 
-当前版本 **android-v0.5.4** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v0.5.4)
+当前版本 **android-v2.3.2** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v2.3.2)
 
-- [OpenConnectGui-android-0.5.4.apk](https://github.com/VPS668/clients/releases/download/android-v0.5.4/OpenConnectGui-android-0.5.4.apk)
+- [VPS000Client-android-2.3.2.apk](https://github.com/VPS668/clients/releases/download/android-v2.3.2/VPS000Client-android-2.3.2.apk)
 
 ### macOS
 
 当前版本 **macos-v2.2.2** · [Release 说明](https://github.com/VPS668/clients/releases/tag/macos-v2.2.2)
 
-- [VPS000Client-2.2.2-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.2.2/VPS000Client-2.2.2-macos-arm64.pkg)（Apple Silicon）
+- [VPS000Client-2.2.2-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.2.2/VPS000Client-2.2.2-macos-arm64.pkg)
 - [VPS000Client-2.2.2-macos-arm64-Installer.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.2.2/VPS000Client-2.2.2-macos-arm64-Installer.dmg)
-- [VPS000Client-2.2.2-macos-x64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.2.2/VPS000Client-2.2.2-macos-x64.pkg)（Intel）
-- [VPS000Client-2.2.2-macos-x64-Installer.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.2.2/VPS000Client-2.2.2-macos-x64-Installer.dmg)
-
 
 ### iOS
 
