@@ -28,7 +28,10 @@
 
 ### macOS
 
-暂无发布。
+当前版本 **macos-v2.2.1** · [Release 说明](https://github.com/VPS668/clients/releases/tag/macos-v2.2.1)
+
+- [OpenConnectGui-2.2.1-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.2.1/OpenConnectGui-2.2.1-macos-arm64.pkg)
+- [OpenConnectGui-2.2.1-macos-arm64-Installer.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.2.1/OpenConnectGui-2.2.1-macos-arm64-Installer.dmg)
 
 ### iOS
 
