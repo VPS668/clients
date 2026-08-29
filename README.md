@@ -22,16 +22,16 @@
 
 ### Android
 
-当前版本 **android-v2.3.5** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v2.3.5)
+当前版本 **android-v2.3.6** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v2.3.6)
 
-- [VPS000Client-android-2.3.5.apk](https://github.com/VPS668/clients/releases/download/android-v2.3.5/VPS000Client-android-2.3.5.apk)
+- [VPS000Client-android-2.3.6.apk](https://github.com/VPS668/clients/releases/download/android-v2.3.6/VPS000Client-android-2.3.6.apk)
 
 ### macOS
 
 当前版本 **macos-v2.3.5** · [Release 说明](https://github.com/VPS668/clients/releases/tag/macos-v2.3.5)
 
-- [VPS000Client-2.3.5-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.3.5/VPS000Client-2.3.5-macos-arm64.pkg)
-- [VPS000Client-2.3.5-macos-arm64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.3.5/VPS000Client-2.3.5-macos-arm64.dmg)
+- [VPS000Client-2.3.5-macos-x64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.3.5/VPS000Client-2.3.5-macos-x64.pkg)
+- [VPS000Client-2.3.5-macos-x64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.3.5/VPS000Client-2.3.5-macos-x64.dmg)
 
 ### iOS
 
