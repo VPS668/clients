@@ -8,10 +8,10 @@
 
 ### Windows 10 / 11
 
-当前版本 **v2.3.7** · [Release 说明](https://github.com/VPS668/clients/releases/tag/v2.3.7)
+当前版本 **v2.3.8** · [Release 说明](https://github.com/VPS668/clients/releases/tag/v2.3.8)
 
-- [VPS000Client-2.3.7-Setup.exe](https://github.com/VPS668/clients/releases/download/v2.3.7/VPS000Client-2.3.7-Setup.exe)
-- [VPS000Client-2.3.7-win-x64.zip](https://github.com/VPS668/clients/releases/download/v2.3.7/VPS000Client-2.3.7-win-x64.zip)
+- [VPS000Client-2.3.8-Setup.exe](https://github.com/VPS668/clients/releases/download/v2.3.8/VPS000Client-2.3.8-Setup.exe)
+- [VPS000Client-2.3.8-win-x64.zip](https://github.com/VPS668/clients/releases/download/v2.3.8/VPS000Client-2.3.8-win-x64.zip)
 
 ### Windows 7 / 8
 
