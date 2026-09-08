@@ -22,9 +22,9 @@
 
 ### Android
 
-当前版本 **android-v2.3.7** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v2.3.7)
+当前版本 **android-v2.3.8** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v2.3.8)
 
-- [VPS000Client-android-2.3.7.apk](https://github.com/VPS668/clients/releases/download/android-v2.3.7/VPS000Client-android-2.3.7.apk)
+- [VPS000Client-android-2.3.8.apk](https://github.com/VPS668/clients/releases/download/android-v2.3.8/VPS000Client-android-2.3.8.apk)
 
 ### macOS
 
