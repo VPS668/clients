@@ -35,7 +35,7 @@
 
 ### iOS
 
-暂无发布。
+当前版本 **2.3.11** · [TestFlight 安装](https://testflight.apple.com/join/kqYjeWeD)
 
 ---
 
