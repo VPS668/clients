@@ -22,9 +22,9 @@
 
 ### Android
 
-当前版本 **android-v2.3.11** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v2.3.11)
+当前版本 **android-v2.3.12** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v2.3.12)
 
-- [VPS000Client-android-2.3.11.apk](https://github.com/VPS668/clients/releases/download/android-v2.3.11/VPS000Client-android-2.3.11.apk)
+- [VPS000Client-android-2.3.12.apk](https://github.com/VPS668/clients/releases/download/android-v2.3.12/VPS000Client-android-2.3.12.apk)
 
 ### macOS
 
