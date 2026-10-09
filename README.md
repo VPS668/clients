@@ -17,6 +17,7 @@
 
 当前版本 **win7-2.4.0** · [Release 说明](https://github.com/VPS668/clients/releases/tag/win7-2.4.0)
 
+- [VPS000Client-win7-2.4.0-Setup.exe](https://github.com/VPS668/clients/releases/download/win7-2.4.0/VPS000Client-win7-2.4.0-Setup.exe)
 - [VPS000Client-win7-2.4.0-win7-win8-x64.zip](https://github.com/VPS668/clients/releases/download/win7-2.4.0/VPS000Client-win7-2.4.0-win7-win8-x64.zip)
 
 ### Android
