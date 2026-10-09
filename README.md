@@ -22,9 +22,9 @@
 
 ### Android
 
-当前版本 **android-v2.3.13** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v2.3.13)
+当前版本 **android-v2.4.0** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v2.4.0)
 
-- [VPS000Client-android-2.3.13.apk](https://github.com/VPS668/clients/releases/download/android-v2.3.13/VPS000Client-android-2.3.13.apk)
+- [VPS000Client-android-2.4.0.apk](https://github.com/VPS668/clients/releases/download/android-v2.4.0/VPS000Client-android-2.4.0.apk)
 
 ### macOS
 
@@ -35,7 +35,7 @@
 
 ### iOS
 
-当前版本 **2.3.11** · [TestFlight 安装](https://testflight.apple.com/join/kqYjeWeD)
+当前版本 **2.4.0** · [TestFlight 安装](https://testflight.apple.com/join/kqYjeWeD)
 
 ---
 
