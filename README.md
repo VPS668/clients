@@ -15,10 +15,9 @@
 
 ### Windows 7 / 8
 
-当前版本 **win7-2.3.12** · [Release 说明](https://github.com/VPS668/clients/releases/tag/win7-2.3.12)
+当前版本 **win7-2.4.0** · [Release 说明](https://github.com/VPS668/clients/releases/tag/win7-2.4.0)
 
-- [VPS000Client-win7-2.3.12-Setup.exe](https://github.com/VPS668/clients/releases/download/win7-2.3.12/VPS000Client-win7-2.3.12-Setup.exe)
-- [VPS000Client-win7-2.3.12-win7-win8-x64.zip](https://github.com/VPS668/clients/releases/download/win7-2.3.12/VPS000Client-win7-2.3.12-win7-win8-x64.zip)
+- [VPS000Client-win7-2.4.0-win7-win8-x64.zip](https://github.com/VPS668/clients/releases/download/win7-2.4.0/VPS000Client-win7-2.4.0-win7-win8-x64.zip)
 
 ### Android
 
@@ -35,9 +34,7 @@
 
 ### iOS
 
-当前版本 **2.4.0** · [Release 说明](https://github.com/VPS668/clients/releases/tag/ios-v2.4.0) · [TestFlight 安装](https://testflight.apple.com/join/kqYjeWeD)
-
-- [VPS000Client-2.4.0-ios.ipa](https://github.com/VPS668/clients/releases/download/ios-v2.4.0/VPS000Client-2.4.0-ios.ipa)
+当前版本 **2.4.0** · [TestFlight 安装](https://testflight.apple.com/join/kqYjeWeD)
 
 ---
 
