@@ -38,18 +38,18 @@
 
 ### CPE 路由器（ZBT-Z8103AX）
 
-当前版本 **cpe-z8103ax-v2.4.1.5** · [Release 说明](https://github.com/VPS668/clients/releases/tag/cpe-z8103ax-v2.4.1.5)
+当前版本 **cpe-z8103ax-v2.4.1.6** · [Release 说明](https://github.com/VPS668/clients/releases/tag/cpe-z8103ax-v2.4.1.6)
 
 > 查找 CPE 固件请打开 [带 cpe-z8103ax 过滤的 Releases](https://github.com/VPS668/clients/releases?q=cpe-z8103ax&expanded=true)。**不要**使用仓库的 `/releases/latest`（会指向桌面/手机客户端）。
 
 **首次从原厂刷入（推荐）**
 
-- [OEM Web 验签包（原厂网页升级用）](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.5/openwrt-25.12-snapshot-vps000-2.4.1.5-mediatek-filogic-zbtlink_zbt-z8103ax-c-oem-web-sysupgrade.bin) — 在原厂「固件升级」页上传
-- 备用：[factory-single.bin（U-Boot Reset，单系统）](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.5/openwrt-25.12-snapshot-vps000-2.4.1.5-mediatek-filogic-zbtlink_zbt-z8103ax-c-squashfs-factory-single.bin)
+- [OEM Web 验签包（原厂网页升级用）](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.6/openwrt-25.12-snapshot-vps000-2.4.1.6-mediatek-filogic-zbtlink_zbt-z8103ax-c-oem-web-sysupgrade.bin) — 在原厂「固件升级」页上传
+- 备用：[factory-single.bin（U-Boot Reset，单系统）](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.6/openwrt-25.12-snapshot-vps000-2.4.1.6-mediatek-filogic-zbtlink_zbt-z8103ax-c-squashfs-factory-single.bin)
 
 **已安装后升级**
 
-- [sysupgrade.bin](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.5/openwrt-25.12-snapshot-vps000-2.4.1.5-mediatek-filogic-zbtlink_zbt-z8103ax-c-squashfs-sysupgrade.bin)
+- [sysupgrade.bin](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.6/openwrt-25.12-snapshot-vps000-2.4.1.6-mediatek-filogic-zbtlink_zbt-z8103ax-c-squashfs-sysupgrade.bin)
 
 **刷机后默认**
 
@@ -65,10 +65,10 @@
 
 **sha256**
 
-- oem-web: `702f85d0d11f9a714921477269d28a9f02e6f335036067f59d8a804d3c427e53`
-- factory-single: `2964497c0e637fe9fad76056f8adb0ba1fbc00b5c0fc849c0d0d38885d081cf8`
-- factory（双系统启用用）: `fdf5902d1606cec20f7bf265d5059ffba3a6f9b6a69e3d37fa104b68b67ba428`
-- sysupgrade: `0f6b2ce1ebc2a08184ae3fa4be29475ff12da7f73aea1d49b51ef9b75564f0e7`
+- oem-web: `0904a920a905907f370c57e799c64a1f6402d428dcdd3bff917c056116de39c2`
+- factory-single: `60733c665e4faef78cca7db35eefa8d05ed0d6458a755428e81373ba68e54471`
+- factory（双系统启用用）: `0908304104b4020d1c43a1b3e7189ae9d394bccc34a39df3856f15301f66e446`
+- sysupgrade: `44b7cbec6dd8aa099dbcf25e79114ee26fb006c0ad8097b56e688a8ebab9feb2`
 
 完整清单见 Release 的 `manifest.json` / `SHA256SUMS`。
 
