@@ -42,4 +42,15 @@
 
 ---
 
+
+### CPE（ZBT-Z8103AX）
+
+当前版本 **cpe-z8103ax-v2.0.3** · [Release 说明](https://github.com/VPS668/clients/releases/tag/cpe-z8103ax-v2.0.3)
+
+- Tag 约定：`cpe-<model>-v<semver>`（检查更新按机型过滤，不用 `/releases/latest`）
+- [manifest.json](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.0.3/manifest.json)
+- [sysupgrade.bin](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.0.3/openwrt-mediatek-filogic-zbtlink_zbt-z8103ax-c-squashfs-sysupgrade.bin)
+
+---
+
 本页由发版脚本自动更新。
