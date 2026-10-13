@@ -36,6 +36,41 @@
 - [VPS000Client-2.4.1-macos-x64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.1/VPS000Client-2.4.1-macos-x64.dmg)（Intel 拖拽安装）
 
 
+### CPE 路由器（ZBT-Z8103AX）
+
+当前版本 **cpe-z8103ax-v2.4.1.5** · [Release 说明](https://github.com/VPS668/clients/releases/tag/cpe-z8103ax-v2.4.1.5)
+
+> 查找 CPE 固件请打开 [带 cpe-z8103ax 过滤的 Releases](https://github.com/VPS668/clients/releases?q=cpe-z8103ax&expanded=true)。**不要**使用仓库的 `/releases/latest`（会指向桌面/手机客户端）。
+
+**首次从原厂刷入（推荐）**
+
+- [OEM Web 验签包（原厂网页升级用）](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.5/openwrt-25.12-snapshot-vps000-2.4.1.5-mediatek-filogic-zbtlink_zbt-z8103ax-c-oem-web-sysupgrade.bin) — 在原厂「固件升级」页上传
+- 备用：[factory-single.bin（U-Boot Reset，单系统）](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.5/openwrt-25.12-snapshot-vps000-2.4.1.5-mediatek-filogic-zbtlink_zbt-z8103ax-c-squashfs-factory-single.bin)
+
+**已安装后升级**
+
+- [sysupgrade.bin](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.5/openwrt-25.12-snapshot-vps000-2.4.1.5-mediatek-filogic-zbtlink_zbt-z8103ax-c-squashfs-sysupgrade.bin)
+
+**刷机后默认**
+
+- Web：`http://192.168.1.1` · admin / admin
+- Wi‑Fi：`VPS000` / `VPS000-5G` · **开放无密码**（请尽快加密；并核对本机 MAC，勿连错附近同名热点）
+- SSH：root / `vps000@root`
+
+默认**单系统**；双系统可在管理界面「更新」页按需启用。
+
+完整步骤（含原厂 Web 验签说明与 U-Boot 备用）：**[网页版刷机说明](docs/cpe-flash.md)**
+
+**sha256**
+
+- oem-web: `702f85d0d11f9a714921477269d28a9f02e6f335036067f59d8a804d3c427e53`
+- factory-single: `2964497c0e637fe9fad76056f8adb0ba1fbc00b5c0fc849c0d0d38885d081cf8`
+- factory（双系统启用用）: `fdf5902d1606cec20f7bf265d5059ffba3a6f9b6a69e3d37fa104b68b67ba428`
+- sysupgrade: `0f6b2ce1ebc2a08184ae3fa4be29475ff12da7f73aea1d49b51ef9b75564f0e7`
+
+完整清单见 Release 的 `manifest.json` / `SHA256SUMS`。
+
+
 ### iOS
 
 当前版本 **2.4.1** · [TestFlight 安装](https://testflight.apple.com/join/kqYjeWeD)
