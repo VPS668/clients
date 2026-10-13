@@ -28,12 +28,12 @@
 
 ### macOS
 
-当前版本 **macos-v2.4.1** · [Release 说明](https://github.com/VPS668/clients/releases/tag/macos-v2.4.1)
+当前版本 **macos-v2.4.1.0** · [Release 说明](https://github.com/VPS668/clients/releases/tag/macos-v2.4.1.0)
 
-- [VPS000Client-2.4.1-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1/VPS000Client-2.4.1-macos-arm64.pkg)（Apple Silicon 安装包）
-- [VPS000Client-2.4.1-macos-arm64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1/VPS000Client-2.4.1-macos-arm64.dmg)（Apple Silicon 拖拽安装）
-- [VPS000Client-2.4.1-macos-x64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1/VPS000Client-2.4.1-macos-x64.pkg)（Intel 安装包）
-- [VPS000Client-2.4.1-macos-x64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1/VPS000Client-2.4.1-macos-x64.dmg)（Intel 拖拽安装）
+- [VPS000Client-2.4.1-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.0/VPS000Client-2.4.1-macos-arm64.pkg)（Apple Silicon 安装包）
+- [VPS000Client-2.4.1-macos-arm64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.0/VPS000Client-2.4.1-macos-arm64.dmg)（Apple Silicon 拖拽安装）
+- [VPS000Client-2.4.1-macos-x64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.0/VPS000Client-2.4.1-macos-x64.pkg)（Intel 安装包）
+- [VPS000Client-2.4.1-macos-x64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.0/VPS000Client-2.4.1-macos-x64.dmg)（Intel 拖拽安装）
 
 
 ### iOS
