@@ -23,6 +23,8 @@ shasum -a 256 <下载的文件>
 
 ## 推荐路径 A：原厂 Web 升级（OEM 验签包）
 
+> 📷 每步带截图的版本：**[原厂 Web 刷机图文教程](cpe-flash-oem-web-illustrated.md)**
+
 原厂 ZBT 固件（如 26.08.06）的 Web 升级会做 OpenWrt 标准校验：
 
 1. **fwtool 元数据** `supported_devices` 需含原厂 board：`mediatek,mt7981-spim-snand-rfb-z8103ax`

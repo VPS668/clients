@@ -61,6 +61,8 @@
 
 完整步骤（含原厂 Web 验签说明与 U-Boot 备用）：**[网页版刷机说明](docs/cpe-flash.md)**
 
+新手推荐：**[原厂 Web 刷机图文教程（每步截图）](docs/cpe-flash-oem-web-illustrated.md)**
+
 **sha256**
 
 - oem-web: `702f85d0d11f9a714921477269d28a9f02e6f335036067f59d8a804d3c427e53`
