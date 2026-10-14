@@ -1,6 +1,6 @@
 # ZBT-Z8103AX 原厂 Web 刷 VPS000 图文教程
 
-适用：**ZBT-Z8103AX-C / D**，原厂固件（实测 **26.08.06**）→ **VPS000 2.4.1.9**。  
+适用：**ZBT-Z8103AX-C / D**，原厂固件（实测 **26.08.06**）→ **VPS000 2.4.1.10**。  
 全程只用浏览器，约 **10 分钟**（其中等待重启 3～5 分钟）。以下截图均来自一台真实设备的实际刷机过程。
 
 > ⚠️ **刷写过程中切勿断电、拔网线或关闭电脑**。如原厂页面拒绝升级包，请改用 [U-Boot 备用方法](cpe-flash.md#备用路径-bu-boot-resetfailsafe)。
@@ -9,9 +9,9 @@
 
 ### 下载固件
 
-到发布页 **[cpe-z8103ax-v2.4.1.9](https://github.com/VPS668/clients/releases/tag/cpe-z8103ax-v2.4.1.9)** 下载文件名以 **`-oem-web-sysupgrade.bin`** 结尾的那个：
+到发布页 **[cpe-z8103ax-v2.4.1.10](https://github.com/VPS668/clients/releases/tag/cpe-z8103ax-v2.4.1.10)** 下载文件名以 **`-oem-web-sysupgrade.bin`** 结尾的那个：
 
-[openwrt-25.12-snapshot-vps000-2.4.1.9-mediatek-filogic-zbtlink_zbt-z8103ax-c-oem-web-sysupgrade.bin](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.9/openwrt-25.12-snapshot-vps000-2.4.1.9-mediatek-filogic-zbtlink_zbt-z8103ax-c-oem-web-sysupgrade.bin)
+[openwrt-25.12-snapshot-vps000-2.4.1.10-mediatek-filogic-zbtlink_zbt-z8103ax-c-oem-web-sysupgrade.bin](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.10/openwrt-25.12-snapshot-vps000-2.4.1.10-mediatek-filogic-zbtlink_zbt-z8103ax-c-oem-web-sysupgrade.bin)
 
 > 不要下载 `factory` 或普通 `squashfs-sysupgrade`，那是给 U-Boot / 已刷 VPS000 的设备用的。
 
@@ -20,7 +20,7 @@
 正确值：
 
 ```
-4c586aabd4404caab9b101821073348f526677915cf3a5c56aaeb14987c4b61f
+76d192e043112b57e6a96819209f86befd4630164eb65619044d4cb754e81be0
 ```
 
 - macOS / Linux：`shasum -a 256 文件名.bin`
@@ -78,7 +78,7 @@
 
 ## 7. 概览页确认版本
 
-「系统」一栏显示 **OpenWrt 25.12-SNAPSHOT vps000-2.4.1.9** 即刷机成功。未登录账号时概览页顶部显示「尚未登录，请先登录账号」，点「去登录」进入「VPN」页填写账号即可连接线路。
+「系统」一栏显示 **OpenWrt 25.12-SNAPSHOT vps000-2.4.1.10** 即刷机成功。未登录账号时概览页顶部显示「尚未登录，请先登录账号」，点「去登录」进入「VPN」页填写账号即可连接线路。
 
 ![VPS000 概览](images/cpe-flash/07-vps000-overview.png)
 
