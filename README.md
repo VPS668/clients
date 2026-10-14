@@ -8,10 +8,10 @@
 
 ### Windows 10 / 11
 
-当前版本 **v2.4.1.2** · [Release 说明](https://github.com/VPS668/clients/releases/tag/v2.4.1.2)
+当前版本 **v2.4.1.3** · [Release 说明](https://github.com/VPS668/clients/releases/tag/v2.4.1.3)
 
-- [VPS000Client-2.4.1.2-Setup.exe](https://github.com/VPS668/clients/releases/download/v2.4.1.2/VPS000Client-2.4.1.2-Setup.exe)
-- [VPS000Client-2.4.1.2-win-x64.zip](https://github.com/VPS668/clients/releases/download/v2.4.1.2/VPS000Client-2.4.1.2-win-x64.zip)
+- [VPS000Client-2.4.1.3-Setup.exe](https://github.com/VPS668/clients/releases/download/v2.4.1.3/VPS000Client-2.4.1.3-Setup.exe)
+- [VPS000Client-2.4.1.3-win-x64.zip](https://github.com/VPS668/clients/releases/download/v2.4.1.3/VPS000Client-2.4.1.3-win-x64.zip)
 
 ### Windows 7 / 8
 
@@ -30,48 +30,8 @@
 
 当前版本 **macos-v2.4.1.1** · [Release 说明](https://github.com/VPS668/clients/releases/tag/macos-v2.4.1.1)
 
-- [VPS000Client-2.4.1-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.1/VPS000Client-2.4.1-macos-arm64.pkg)（Apple Silicon 安装包）
-- [VPS000Client-2.4.1-macos-arm64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.1/VPS000Client-2.4.1-macos-arm64.dmg)（Apple Silicon 拖拽安装）
-- [VPS000Client-2.4.1-macos-x64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.1/VPS000Client-2.4.1-macos-x64.pkg)（Intel 安装包）
-- [VPS000Client-2.4.1-macos-x64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.1/VPS000Client-2.4.1-macos-x64.dmg)（Intel 拖拽安装）
-
-
-### CPE 路由器（ZBT-Z8103AX）
-
-当前版本 **cpe-z8103ax-v2.4.1.6** · [Release 说明](https://github.com/VPS668/clients/releases/tag/cpe-z8103ax-v2.4.1.6)
-
-> 查找 CPE 固件请打开 [带 cpe-z8103ax 过滤的 Releases](https://github.com/VPS668/clients/releases?q=cpe-z8103ax&expanded=true)。**不要**使用仓库的 `/releases/latest`（会指向桌面/手机客户端）。
-
-**首次从原厂刷入（推荐）**
-
-- [OEM Web 验签包（原厂网页升级用）](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.6/openwrt-25.12-snapshot-vps000-2.4.1.6-mediatek-filogic-zbtlink_zbt-z8103ax-c-oem-web-sysupgrade.bin) — 在原厂「固件升级」页上传
-- 备用：[factory-single.bin（U-Boot Reset，单系统）](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.6/openwrt-25.12-snapshot-vps000-2.4.1.6-mediatek-filogic-zbtlink_zbt-z8103ax-c-squashfs-factory-single.bin)
-
-**已安装后升级**
-
-- [sysupgrade.bin](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.6/openwrt-25.12-snapshot-vps000-2.4.1.6-mediatek-filogic-zbtlink_zbt-z8103ax-c-squashfs-sysupgrade.bin)
-
-**刷机后默认**
-
-- Web：`http://192.168.1.1` · admin / admin
-- Wi‑Fi：`VPS000` / `VPS000-5G` · **开放无密码**（请尽快加密；并核对本机 MAC，勿连错附近同名热点）
-- SSH：root / `vps000@root`
-
-默认**单系统**；双系统可在管理界面「更新」页按需启用。
-
-完整步骤（含原厂 Web 验签说明与 U-Boot 备用）：**[网页版刷机说明](docs/cpe-flash.md)**
-
-新手推荐：**[原厂 Web 刷机图文教程（每步截图）](docs/cpe-flash-oem-web-illustrated.md)**
-
-**sha256**
-
-- oem-web: `0904a920a905907f370c57e799c64a1f6402d428dcdd3bff917c056116de39c2`
-- factory-single: `60733c665e4faef78cca7db35eefa8d05ed0d6458a755428e81373ba68e54471`
-- factory（双系统启用用）: `0908304104b4020d1c43a1b3e7189ae9d394bccc34a39df3856f15301f66e446`
-- sysupgrade: `44b7cbec6dd8aa099dbcf25e79114ee26fb006c0ad8097b56e688a8ebab9feb2`
-
-完整清单见 Release 的 `manifest.json` / `SHA256SUMS`。
-
+- [VPS000Client-2.4.1-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.1/VPS000Client-2.4.1-macos-arm64.pkg)
+- [VPS000Client-2.4.1-macos-arm64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.1/VPS000Client-2.4.1-macos-arm64.dmg)
 
 ### iOS
 
