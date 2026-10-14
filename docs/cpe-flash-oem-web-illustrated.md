@@ -20,7 +20,7 @@
 正确值：
 
 ```
-`4c586aabd4404caab9b101821073348f526677915cf3a5c56aaeb14987c4b61f`
+4c586aabd4404caab9b101821073348f526677915cf3a5c56aaeb14987c4b61f
 ```
 
 - macOS / Linux：`shasum -a 256 文件名.bin`
