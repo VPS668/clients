@@ -13,7 +13,7 @@
 | **原厂固件首次刷入（推荐）** | `*-oem-web-sysupgrade.bin`（或名称含 `vendor-web` / `oem-web`） | 在**原厂 Web 管理页 → 固件升级**上传。已按原厂验签格式封装。**默认单系统**。 |
 | 原厂 Web 被拒时的备用 | `*-squashfs-factory-single.bin`（优先）或 `*-squashfs-factory.bin` | 用 **U-Boot Web Failsafe**（按住 Reset 上电）上传。**首次请优先 single**；不含 `single` 的 factory 为双分区镜像，仅在「更新」页主动启用双系统时使用。 |
 | 已在跑 VPS000 / OpenWrt 后升级 | `*-squashfs-sysupgrade.bin` | LuCI / VPS UI「更新」或 `sysupgrade`。 |
-| 可选：启用双系统 | 双分区 `*-factory.bin`（非 single）+ `02-fip-dualboot-*.bin`（kind: fip） | 在管理界面 **更新 → 双系统（可选）** 按提示操作（2.4.1.17 keep-proven：一键双系统含 pending-FIP；不写 BL2）。不是默认必选项。 |
+| 可选：启用双系统 | 双分区 `*-factory.bin`（非 single）+ `02-fip-dualboot-*.bin`（kind: fip） | 在管理界面 **更新 → 双系统（可选）** 按提示操作（2.4.1.17 keep-proven：一键双系统含 pending-FIP；不写 BL2）。不是默认必选项。图文步骤见 [一键双系统图文教程](cpe-one-click-dual-illustrated.md)。 |
 
 发布页同时提供 `sha256`（Release 说明或 `manifest.json`）。下载后请校验：
 
@@ -24,6 +24,8 @@ shasum -a 256 <下载的文件>
 ## 推荐路径 A：原厂 Web 升级（OEM 验签包）
 
 > 📷 每步带截图的版本：**[原厂 Web 刷机图文教程](cpe-flash-oem-web-illustrated.md)**
+>
+> 📷 已在 VPS000 上启用/退回双系统：**[一键双系统图文教程](cpe-one-click-dual-illustrated.md)**（≥ 2.4.1.17）
 
 原厂 ZBT 固件（如 26.08.06）的 Web 升级会做 OpenWrt 标准校验：
 
