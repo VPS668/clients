@@ -84,11 +84,11 @@ sysupgrade -n /tmp/sysupgrade.bin   # -n 不保留配置；去掉 -n 则尽量�
 点击左上角 Logo /「威伯斯云」可回到概览页。
 
 
-## v2.4.1.10 文件校验（sha256）
+## v2.4.1.11 文件校验（sha256）
 
 | 文件 | sha256 |
 |------|--------|
-| oem-web-sysupgrade.bin | `76d192e043112b57e6a96819209f86befd4630164eb65619044d4cb754e81be0` |
-| factory-single.bin | `d086dbfee8c8e7109f02c95d52da29f4aec2d57229ef082d6ab96700b7dcd0e6` |
-| factory.bin | `e6b1a7cad8a89ad9589bae77984a8fb8e4ed91b76594a69c76c0d673c74ff34a` |
-| sysupgrade.bin | `72c150dce205d93b7d6ed28e8ee5e8eb884b50c2fc115d016845e537f6e4143c` |
+| oem-web-sysupgrade.bin | `7390efd0dce352c2894d85015348d4b26c80c008a421d6c89be0c1f40574cdaa` |
+| factory-single.bin | `3879e84dfcae5a75a8ab37f2a27575ef1d5e26165b1182e46163267336270e73` |
+| factory.bin | `cd308af59fc2a2c6a41a87efd08593461b369f8175bb5d8667a17470df5a7f80` |
+| sysupgrade.bin | `0ccd866ce4886fe8ed6f235cc2f36d62ac3268dfc2f8a4d356b111f14695855d` |
