@@ -38,9 +38,9 @@
 
 ### CPE（ZBT-Z8103AX）
 
-当前版本 **cpe-z8103ax-v2.4.1.13** · [Release 说明](https://github.com/VPS668/clients/releases/tag/cpe-z8103ax-v2.4.1.13)
+当前版本 **cpe-z8103ax-v2.4.1.14** · [Release 说明](https://github.com/VPS668/clients/releases/tag/cpe-z8103ax-v2.4.1.14)
 
-- [oem-web-sysupgrade.bin（原厂 Web 推荐）](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.13/openwrt-25.12-snapshot-vps000-2.4.1.13-mediatek-filogic-zbtlink_zbt-z8103ax-c-oem-web-sysupgrade.bin)
+- [oem-web-sysupgrade.bin（原厂 Web 推荐）](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.14/openwrt-25.12-snapshot-vps000-2.4.1.14-mediatek-filogic-zbtlink_zbt-z8103ax-c-oem-web-sysupgrade.bin)
 - 刷机说明：[docs/cpe-flash.md](docs/cpe-flash.md) · [图文教程](docs/cpe-flash-oem-web-illustrated.md)
 
 ### iOS
