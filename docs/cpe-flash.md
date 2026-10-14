@@ -13,7 +13,7 @@
 | **原厂固件首次刷入（推荐）** | `*-oem-web-sysupgrade.bin`（或名称含 `vendor-web` / `oem-web`） | 在**原厂 Web 管理页 → 固件升级**上传。已按原厂验签格式封装。**默认单系统**。 |
 | 原厂 Web 被拒时的备用 | `*-squashfs-factory-single.bin`（优先）或 `*-squashfs-factory.bin` | 用 **U-Boot Web Failsafe**（按住 Reset 上电）上传。**首次请优先 single**；不含 `single` 的 factory 为双分区镜像，仅在「更新」页主动启用双系统时使用。 |
 | 已在跑 VPS000 / OpenWrt 后升级 | `*-squashfs-sysupgrade.bin` | LuCI / VPS UI「更新」或 `sysupgrade`。 |
-| 可选：启用双系统 | 双分区 `*-factory.bin`（非 single）+ 双系统 FIP | 在管理界面 **更新 → 双系统（可选）** 按提示操作；不是默认必选项。 |
+| 可选：启用双系统 | 双分区 `*-factory.bin`（非 single）+ `02-fip-dualboot-*.bin`（kind: fip） | 在管理界面 **更新 → 双系统（可选）** 按提示操作（2.4.1.14+ 含 FIP 安装器；不写 BL2）。不是默认必选项。 |
 
 发布页同时提供 `sha256`（Release 说明或 `manifest.json`）。下载后请校验：
 
@@ -88,10 +88,18 @@ MAC 后 6 位：去掉冒号后取末 6 个十六进制字符并**大写**（例
 点击左上角 Logo /「威伯斯云」可回到概览页。
 
 
-## v2.4.1.13 文件校验（sha256）
+## v2.4.1.14 文件校验（sha256）
 
 | 文件 | sha256 |
 |------|--------|
+| oem-web-sysupgrade.bin | `aef2d195909d641605a74bb024c8a62bc17aa3b776af6c482607d0f26fca5669` |
+| factory-single.bin | `4edaa5fc23f5e1ed8627b77e648237ac9cf22afbd58e4c031b1067ddb609cb70` |
+| factory.bin | `87e1aac4c5f69e521f7ae91d6e8776e980747d23ce509c3a496b4fbe703849a6` |
+| sysupgrade.bin | `e7adf1ea041837ec49b33e17fa9e0b8362cc4fbdd252630d41b574ee7dfa0cdf` |
+| FIP（双系统，不写 BL2） | `2f0a455707620964fcb6bdd3d736b646184cd5d4ee00087cc8d29a3ac65a2c28` |
+
+> **2.4.1.14 双系统说明**：一键启用会 plant keep + 早启 restore；FIP 只由镜像内 `install-fip.sh` 写入名为 `FIP` 的 MTD（不写 BL2）。发行说明含 `keep-proven` 前，factory 步骤后密码/VPN **可能重置**。已是双分区布局的设备（如 A7FCA4）升级后一般只需 FIP 步骤。支持双→单回退（刷 `factory-single`，不改 FIP）。
+|--------|
 | oem-web-sysupgrade.bin | `fd2eae5fcf5e19c139ea30eef31a19161d81da6cb1e06366397b18be03597d92` |
 | factory-single.bin | `bbac75ec22c94467c972df87b8acd2a82d7ff5fbcd0ebf18c1f768bf8a8d1e48` |
 | factory.bin | `63c1b8ccb0404a953a724d0423474b3105dd1ccb9736be93d204d935d888b70f` |
