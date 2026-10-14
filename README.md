@@ -33,6 +33,13 @@
 - [VPS000Client-2.4.1-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.1/VPS000Client-2.4.1-macos-arm64.pkg)
 - [VPS000Client-2.4.1-macos-arm64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.1/VPS000Client-2.4.1-macos-arm64.dmg)
 
+### CPE（ZBT-Z8103AX）
+
+当前版本 **cpe-z8103ax-v2.4.1.9** · [Release 说明](https://github.com/VPS668/clients/releases/tag/cpe-z8103ax-v2.4.1.9)
+
+- [oem-web-sysupgrade.bin（原厂 Web 推荐）](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.9/openwrt-25.12-snapshot-vps000-2.4.1.9-mediatek-filogic-zbtlink_zbt-z8103ax-c-oem-web-sysupgrade.bin)
+- 刷机说明：[docs/cpe-flash.md](docs/cpe-flash.md) · [图文教程](docs/cpe-flash-oem-web-illustrated.md)
+
 ### iOS
 
 当前版本 **2.4.1** · [TestFlight 安装](https://testflight.apple.com/join/kqYjeWeD)
