@@ -13,7 +13,7 @@
 | **原厂固件首次刷入（推荐）** | `*-oem-web-sysupgrade.bin`（或名称含 `vendor-web` / `oem-web`） | 在**原厂 Web 管理页 → 固件升级**上传。已按原厂验签格式封装。**默认单系统**。 |
 | 原厂 Web 被拒时的备用 | `*-squashfs-factory-single.bin`（优先）或 `*-squashfs-factory.bin` | 用 **U-Boot Web Failsafe**（按住 Reset 上电）上传。**首次请优先 single**；不含 `single` 的 factory 为双分区镜像，仅在「更新」页主动启用双系统时使用。 |
 | 已在跑 VPS000 / OpenWrt 后升级 | `*-squashfs-sysupgrade.bin` | LuCI / VPS UI「更新」或 `sysupgrade`。 |
-| 可选：启用双系统 | 双分区 `*-factory.bin`（非 single）+ `02-fip-dualboot-*.bin`（kind: fip） | 在管理界面 **更新 → 双系统（可选）** 按提示操作（2.4.1.16 keep-proven：一键双系统含 pending-FIP；不写 BL2）。不是默认必选项。 |
+| 可选：启用双系统 | 双分区 `*-factory.bin`（非 single）+ `02-fip-dualboot-*.bin`（kind: fip） | 在管理界面 **更新 → 双系统（可选）** 按提示操作（2.4.1.17 keep-proven：一键双系统含 pending-FIP；不写 BL2）。不是默认必选项。 |
 
 发布页同时提供 `sha256`（Release 说明或 `manifest.json`）。下载后请校验：
 
@@ -88,14 +88,14 @@ MAC 后 6 位：去掉冒号后取末 6 个十六进制字符并**大写**（例
 点击左上角 Logo /「威伯斯云」可回到概览页。
 
 
-## v2.4.1.16 文件校验（sha256）
+## v2.4.1.17 文件校验（sha256）
 
 | 文件 | sha256 |
 |------|--------|
-| oem-web-sysupgrade.bin | `9ef164b162471243a63d461d71d5a77c2d7fd16833ee6a25282dd14f018ede17` |
-| factory-single.bin | `5d82872a5aead34749c0b4b8a4571c92f3750458bdd7126cae268fc6229bf250` |
-| factory.bin | `87db50aa382717fb9c7fb4a3dba640c8f6575631d54f16aaf3e89ba0626611f7` |
-| sysupgrade.bin | `d2bcebcb7a57f565af9b35aa61e5536fb93cca809af9a9bf8307021b3d7b4508` |
+| oem-web-sysupgrade.bin | `82dab6405d51a31055b7d9c299d5d2ae0bdad8d51b0e5e7746a66a666e8b17a3` |
+| factory-single.bin | `b7a03d4a8bc92c6471ddb05cba451714b25734fb1242d90b230b72c0346049ea` |
+| factory.bin | `39fe4f45ea2f375da3d723f2b804741f5751e3c0bcfab8f2af3b46dfca178534` |
+| sysupgrade.bin | `0da316bc62d093ae7a55aa9733c7629fefa314196c3050f54094e7c8b81df4ff` |
 | FIP（双系统，不写 BL2） | `2f0a455707620964fcb6bdd3d736b646184cd5d4ee00087cc8d29a3ac65a2c28` |
 
-> **2.4.1.16 keep-proven**：同 2.4.1.15 保留配置行为，并修复 FIP `modinfo` vermagic 核对 / `insmod i_want_a_brick=1`，以及 BusyBox 单卷 UBI 卷名识别（退回单系统不再误判）。一键双系统含 pending-FIP；不写 BL2。`dualboot.sh` 由 `patch-dualboot.sh` 保证 `identify "$1" cat`（apk 不再覆盖 base-files）。发布页：[cpe-z8103ax-v2.4.1.16](https://github.com/VPS668/clients/releases/tag/cpe-z8103ax-v2.4.1.16)。
+> **2.4.1.17 keep-proven**：同 2.4.1.16 保留配置行为。检查布局只记录 FIP 状态（`AB_FIP_STATUS`），不再改写已下载的 FIP；sha256 相符的缓存直接复用，一键双系统不再报「FIP 下载失败」。不写 BL2。发布页：[cpe-z8103ax-v2.4.1.17](https://github.com/VPS668/clients/releases/tag/cpe-z8103ax-v2.4.1.17)。
