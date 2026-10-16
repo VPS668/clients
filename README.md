@@ -8,10 +8,10 @@
 
 ### Windows 10 / 11
 
-当前版本 **v2.4.1.3** · [Release 说明](https://github.com/VPS668/clients/releases/tag/v2.4.1.3)
+当前版本 **v2.4.1.4** · [Release 说明](https://github.com/VPS668/clients/releases/tag/v2.4.1.4)
 
-- [VPS000Client-2.4.1.3-Setup.exe](https://github.com/VPS668/clients/releases/download/v2.4.1.3/VPS000Client-2.4.1.3-Setup.exe)
-- [VPS000Client-2.4.1.3-win-x64.zip](https://github.com/VPS668/clients/releases/download/v2.4.1.3/VPS000Client-2.4.1.3-win-x64.zip)
+- [VPS000Client-2.4.1.4-Setup.exe](https://github.com/VPS668/clients/releases/download/v2.4.1.4/VPS000Client-2.4.1.4-Setup.exe)
+- [VPS000Client-2.4.1.4-win-x64.zip](https://github.com/VPS668/clients/releases/download/v2.4.1.4/VPS000Client-2.4.1.4-win-x64.zip)
 
 ### Windows 7 / 8
 
@@ -22,24 +22,16 @@
 
 ### Android
 
-当前版本 **android-v2.4.1.26** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v2.4.1.26)
+当前版本 **android-v2.4.1.32** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v2.4.1.32)
 
-- [VPS000Client-android-2.4.1.26.apk](https://github.com/VPS668/clients/releases/download/android-v2.4.1.26/VPS000Client-android-2.4.1.26.apk)
+- [VPS000Client-android-2.4.1.32.apk](https://github.com/VPS668/clients/releases/download/android-v2.4.1.32/VPS000Client-android-2.4.1.32.apk)
 
 ### macOS
 
-- 最新：[macos-v2.4.1.3](https://github.com/VPS668/clients/releases/tag/macos-v2.4.1.3)
-- Apple Silicon PKG：[VPS000Client-2.4.1-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.3/VPS000Client-2.4.1-macos-arm64.pkg)
-- Apple Silicon DMG：[VPS000Client-2.4.1-macos-arm64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.3/VPS000Client-2.4.1-macos-arm64.dmg)
-- Intel PKG：[VPS000Client-2.4.1-macos-x64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.3/VPS000Client-2.4.1-macos-x64.pkg)
-- Intel DMG：[VPS000Client-2.4.1-macos-x64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.3/VPS000Client-2.4.1-macos-x64.dmg)
+当前版本 **macos-v2.4.1.3** · [Release 说明](https://github.com/VPS668/clients/releases/tag/macos-v2.4.1.3)
 
-### CPE（ZBT-Z8103AX）
-
-当前版本 **cpe-z8103ax-v2.4.1.14** · [Release 说明](https://github.com/VPS668/clients/releases/tag/cpe-z8103ax-v2.4.1.14)
-
-- [oem-web-sysupgrade.bin（原厂 Web 推荐）](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.1.14/openwrt-25.12-snapshot-vps000-2.4.1.14-mediatek-filogic-zbtlink_zbt-z8103ax-c-oem-web-sysupgrade.bin)
-- 刷机说明：[docs/cpe-flash.md](docs/cpe-flash.md) · [图文教程](docs/cpe-flash-oem-web-illustrated.md)
+- [VPS000Client-2.4.1-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.3/VPS000Client-2.4.1-macos-arm64.pkg)
+- [VPS000Client-2.4.1-macos-arm64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.3/VPS000Client-2.4.1-macos-arm64.dmg)
 
 ### iOS
 
