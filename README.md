@@ -8,10 +8,10 @@
 
 ### Windows 10 / 11
 
-当前版本 **v2.4.1.6** · [Release 说明](https://github.com/VPS668/clients/releases/tag/v2.4.1.6)
+当前版本 **v2.4.1.7** · [Release 说明](https://github.com/VPS668/clients/releases/tag/v2.4.1.7)
 
-- [VPS000Client-2.4.1.6-Setup.exe](https://github.com/VPS668/clients/releases/download/v2.4.1.6/VPS000Client-2.4.1.6-Setup.exe)
-- [VPS000Client-2.4.1.6-win-x64.zip](https://github.com/VPS668/clients/releases/download/v2.4.1.6/VPS000Client-2.4.1.6-win-x64.zip)
+- [VPS000Client-2.4.1.7-Setup.exe](https://github.com/VPS668/clients/releases/download/v2.4.1.7/VPS000Client-2.4.1.7-Setup.exe)
+- [VPS000Client-2.4.1.7-win-x64.zip](https://github.com/VPS668/clients/releases/download/v2.4.1.7/VPS000Client-2.4.1.7-win-x64.zip)
 
 ### Windows 7 / 8
 
@@ -30,11 +30,8 @@
 
 当前版本 **macos-v2.4.1.4** · [Release 说明](https://github.com/VPS668/clients/releases/tag/macos-v2.4.1.4)
 
-- [VPS000Client-2.4.1-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.4/VPS000Client-2.4.1-macos-arm64.pkg)（Apple Silicon 安装包）
-- [VPS000Client-2.4.1-macos-arm64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.4/VPS000Client-2.4.1-macos-arm64.dmg)（Apple Silicon 拖拽安装）
-- [VPS000Client-2.4.1-macos-x64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.4/VPS000Client-2.4.1-macos-x64.pkg)（Intel 安装包）
-- [VPS000Client-2.4.1-macos-x64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.4/VPS000Client-2.4.1-macos-x64.dmg)（Intel 拖拽安装）
-
+- [VPS000Client-2.4.1-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.4/VPS000Client-2.4.1-macos-arm64.pkg)
+- [VPS000Client-2.4.1-macos-arm64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.1.4/VPS000Client-2.4.1-macos-arm64.dmg)
 
 ### iOS
 
