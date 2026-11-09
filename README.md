@@ -8,30 +8,30 @@
 
 ### Windows 10 / 11
 
-当前版本 **v2.4.2.5** · [Release 说明](https://github.com/VPS668/clients/releases/tag/v2.4.2.5)
+当前版本 **v2.4.2.7** · [Release 说明](https://github.com/VPS668/clients/releases/tag/v2.4.2.7)
 
-- [VPS000Client-2.4.2.5-Setup.exe](https://github.com/VPS668/clients/releases/download/v2.4.2.5/VPS000Client-2.4.2.5-Setup.exe)
-- [VPS000Client-2.4.2.5-win-x64.zip](https://github.com/VPS668/clients/releases/download/v2.4.2.5/VPS000Client-2.4.2.5-win-x64.zip)
+- [VPS000Client-2.4.2.7-Setup.exe](https://github.com/VPS668/clients/releases/download/v2.4.2.7/VPS000Client-2.4.2.7-Setup.exe)
+- [VPS000Client-2.4.2.7-win-x64.zip](https://github.com/VPS668/clients/releases/download/v2.4.2.7/VPS000Client-2.4.2.7-win-x64.zip)
 
 ### Windows 7 / 8
 
-当前版本 **win7-2.4.2.5** · [Release 说明](https://github.com/VPS668/clients/releases/tag/win7-2.4.2.5)
+当前版本 **win7-2.4.2.7** · [Release 说明](https://github.com/VPS668/clients/releases/tag/win7-2.4.2.7)
 
-- [VPS000Client-win7-2.4.2.5-Setup.exe](https://github.com/VPS668/clients/releases/download/win7-2.4.2.5/VPS000Client-win7-2.4.2.5-Setup.exe)
-- [VPS000Client-win7-2.4.2.5-win7-win8-x64.zip](https://github.com/VPS668/clients/releases/download/win7-2.4.2.5/VPS000Client-win7-2.4.2.5-win7-win8-x64.zip)
+- [VPS000Client-win7-2.4.2.7-Setup.exe](https://github.com/VPS668/clients/releases/download/win7-2.4.2.7/VPS000Client-win7-2.4.2.7-Setup.exe)
+- [VPS000Client-win7-2.4.2.7-win7-win8-x64.zip](https://github.com/VPS668/clients/releases/download/win7-2.4.2.7/VPS000Client-win7-2.4.2.7-win7-win8-x64.zip)
 
 ### Android
 
-当前版本 **android-v2.4.2.35** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v2.4.2.35)
+当前版本 **android-v2.4.2.38** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v2.4.2.38)
 
-- [VPS000Client-android-2.4.2.35.apk](https://github.com/VPS668/clients/releases/download/android-v2.4.2.35/VPS000Client-android-2.4.2.35.apk)
+- [VPS000Client-android-2.4.2.38.apk](https://github.com/VPS668/clients/releases/download/android-v2.4.2.38/VPS000Client-android-2.4.2.38.apk)
 
 ### macOS
 
-当前版本 **macos-v2.4.2.2** · [Release 说明](https://github.com/VPS668/clients/releases/tag/macos-v2.4.2.2)
+当前版本 **macos-v2.4.2.7** · [Release 说明](https://github.com/VPS668/clients/releases/tag/macos-v2.4.2.7)
 
-- [VPS000Client-2.4.2.2-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.2.2/VPS000Client-2.4.2.2-macos-arm64.pkg)
-- [VPS000Client-2.4.2.2-macos-arm64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.2.2/VPS000Client-2.4.2.2-macos-arm64.dmg)
+- [VPS000Client-2.4.2.7-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.2.7/VPS000Client-2.4.2.7-macos-arm64.pkg)
+- [VPS000Client-2.4.2.7-macos-arm64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.2.7/VPS000Client-2.4.2.7-macos-arm64.dmg)
 
 ### iOS
 
