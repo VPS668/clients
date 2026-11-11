@@ -8,23 +8,23 @@
 
 ### Windows 10 / 11
 
-当前版本 **v2.4.2.7** · [Release 说明](https://github.com/VPS668/clients/releases/tag/v2.4.2.7)
+当前版本 **v2.4.2.8** · [Release 说明](https://github.com/VPS668/clients/releases/tag/v2.4.2.8)
 
-- [VPS000Client-2.4.2.7-Setup.exe](https://github.com/VPS668/clients/releases/download/v2.4.2.7/VPS000Client-2.4.2.7-Setup.exe)
-- [VPS000Client-2.4.2.7-win-x64.zip](https://github.com/VPS668/clients/releases/download/v2.4.2.7/VPS000Client-2.4.2.7-win-x64.zip)
+- [VPS000Client-2.4.2.8-Setup.exe](https://github.com/VPS668/clients/releases/download/v2.4.2.8/VPS000Client-2.4.2.8-Setup.exe)
+- [VPS000Client-2.4.2.8-win-x64.zip](https://github.com/VPS668/clients/releases/download/v2.4.2.8/VPS000Client-2.4.2.8-win-x64.zip)
 
 ### Windows 7 / 8
 
-当前版本 **win7-2.4.2.7** · [Release 说明](https://github.com/VPS668/clients/releases/tag/win7-2.4.2.7)
+当前版本 **win7-2.4.2.8** · [Release 说明](https://github.com/VPS668/clients/releases/tag/win7-2.4.2.8)
 
-- [VPS000Client-win7-2.4.2.7-Setup.exe](https://github.com/VPS668/clients/releases/download/win7-2.4.2.7/VPS000Client-win7-2.4.2.7-Setup.exe)
-- [VPS000Client-win7-2.4.2.7-win7-win8-x64.zip](https://github.com/VPS668/clients/releases/download/win7-2.4.2.7/VPS000Client-win7-2.4.2.7-win7-win8-x64.zip)
+- [VPS000Client-win7-2.4.2.8-Setup.exe](https://github.com/VPS668/clients/releases/download/win7-2.4.2.8/VPS000Client-win7-2.4.2.8-Setup.exe)
+- [VPS000Client-win7-2.4.2.8-win7-win8-x64.zip](https://github.com/VPS668/clients/releases/download/win7-2.4.2.8/VPS000Client-win7-2.4.2.8-win7-win8-x64.zip)
 
 ### Android
 
-当前版本 **android-v2.4.2.38** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v2.4.2.38)
+当前版本 **android-v2.4.2.39** · [Release 说明](https://github.com/VPS668/clients/releases/tag/android-v2.4.2.39)
 
-- [VPS000Client-android-2.4.2.38.apk](https://github.com/VPS668/clients/releases/download/android-v2.4.2.38/VPS000Client-android-2.4.2.38.apk)
+- [VPS000Client-android-2.4.2.39.apk](https://github.com/VPS668/clients/releases/download/android-v2.4.2.39/VPS000Client-android-2.4.2.39.apk)
 
 ### macOS
 
