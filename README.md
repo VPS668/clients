@@ -33,6 +33,14 @@
 - [VPS000Client-2.4.2.7-macos-arm64.pkg](https://github.com/VPS668/clients/releases/download/macos-v2.4.2.7/VPS000Client-2.4.2.7-macos-arm64.pkg)
 - [VPS000Client-2.4.2.7-macos-arm64.dmg](https://github.com/VPS668/clients/releases/download/macos-v2.4.2.7/VPS000Client-2.4.2.7-macos-arm64.dmg)
 
+### CPE（ZBT Z8103AX）
+
+当前版本 **cpe-z8103ax-v2.4.2.14** · [Release 说明](https://github.com/VPS668/clients/releases/tag/cpe-z8103ax-v2.4.2.14)
+
+- [openwrt-25.12-snapshot-vps000-2.4.2.14-mediatek-filogic-zbtlink_zbt-z8103ax-c-squashfs-sysupgrade.bin](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.2.14/openwrt-25.12-snapshot-vps000-2.4.2.14-mediatek-filogic-zbtlink_zbt-z8103ax-c-squashfs-sysupgrade.bin)（保留配置/在线升级用）
+- [openwrt-25.12-snapshot-vps000-2.4.2.14-mediatek-filogic-zbtlink_zbt-z8103ax-c-squashfs-factory.bin](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.2.14/openwrt-25.12-snapshot-vps000-2.4.2.14-mediatek-filogic-zbtlink_zbt-z8103ax-c-squashfs-factory.bin)
+- [openwrt-25.12-snapshot-vps000-2.4.2.14-mediatek-filogic-zbtlink_zbt-z8103ax-c-squashfs-factory-single.bin](https://github.com/VPS668/clients/releases/download/cpe-z8103ax-v2.4.2.14/openwrt-25.12-snapshot-vps000-2.4.2.14-mediatek-filogic-zbtlink_zbt-z8103ax-c-squashfs-factory-single.bin)
+
 ### iOS
 
 当前版本 **2.4.2** · [TestFlight 安装](https://testflight.apple.com/join/kqYjeWeD)
