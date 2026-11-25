@@ -48,3 +48,10 @@
 ---
 
 本页由发版脚本自动更新。
+
+### CPE（x86 / Hyper-V）
+
+当前版本 **cpe-x86-v2.4.2.15** · [Release 说明](https://github.com/VPS668/clients/releases/tag/cpe-x86-v2.4.2.15)
+
+- [vps000-cpe-x86-2.4.2.15-hyperv-gen2-uefi.vhdx](https://github.com/VPS668/clients/releases/download/cpe-x86-v2.4.2.15/vps000-cpe-x86-2.4.2.15-hyperv-gen2-uefi.vhdx)（Hyper-V 二代导入用，须关闭安全启动）
+- [openwrt-25.12-snapshot-vps000-2.4.2.15-x86-x86-64-generic-ext4-combined-efi.img.gz](https://github.com/VPS668/clients/releases/download/cpe-x86-v2.4.2.15/openwrt-25.12-snapshot-vps000-2.4.2.15-x86-x86-64-generic-ext4-combined-efi.img.gz)
